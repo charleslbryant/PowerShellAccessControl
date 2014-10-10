@@ -1,4 +1,4 @@
-﻿# Needed for ServiceAccessRights enumeration
+# Needed for ServiceAccessRights enumeration
 Import-Module PowerShellAccessControl
 
 Configuration TestSecurityDescriptorResource {

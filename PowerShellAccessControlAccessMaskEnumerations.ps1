@@ -1,4 +1,4 @@
-﻿# See after Add-Type for generic rights mapping
+# See after Add-Type for generic rights mapping
 Add-Type @"
 using System;
 namespace PowerShellAccessControl {

@@ -1,4 +1,4 @@
-﻿function Get-CimInstanceFromPath {
+function Get-CimInstanceFromPath {
 <#
 .SYNOPSIS
 Converts a WMI path into a CimInstance object.
@@ -4093,3 +4093,4 @@ replacement, but it will replace it with a single asterisk.
     $Temp -replace "\*\*", "*"
 
 }
+

@@ -1,4 +1,4 @@
-﻿
+
 Add-Type @"
 using System;
 using System.Runtime.InteropServices;
@@ -690,3 +690,4 @@ namespace PowerShellAccessControl {
     }
 }
 "@
+

@@ -1,4 +1,4 @@
-﻿TOPIC
+TOPIC
     PowerShell Access Control DSC Resources
 
 SHORT DESCRIPTION
@@ -125,3 +125,4 @@ SEE ALSO
     New-AccessControlEntry
     Remove-AccessControlEntry
     Set-SecurityDescriptor
+

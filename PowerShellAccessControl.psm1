@@ -1,4 +1,4 @@
-﻿<#
+<#
 Version 3.0 BETA notes:
   - The help is not finished for the module
   - There are some examples of the new functionality, but there will be mroe
@@ -4107,3 +4107,4 @@ function Get-ADObjectAceGuid {
         }
     }
 }
+

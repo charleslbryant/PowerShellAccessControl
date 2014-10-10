@@ -1,4 +1,4 @@
-﻿TOPIC
+TOPIC
     PowerShell Access Control Module
 
 SHORT DESCRIPTION
@@ -163,3 +163,4 @@ SEE ALSO
     Repair-AclCanonicalOrder
     Set-Owner
     Set-SecurityDescriptor
+
